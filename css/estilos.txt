@@ -1,3 +1,4 @@
 Color de Fondo Azul
 Letra en Negrita
 Color de fuente F00
+font-size: 18px;
